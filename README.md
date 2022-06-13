@@ -1,3 +1,4 @@
 # first_streamlit_app
 
-https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+https://gist.github.com/rxaviers/7360908#file-gistfile1-md
+

@@ -8,4 +8,4 @@ Omega 3 & Blueberrry Oatmeal
 
 Kale, Spinach & Rocket Smoothie
 
-Hard-Boiled Free Range Egg
+Hard-Boiled Free-Range Egg
